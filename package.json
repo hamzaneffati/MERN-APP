@@ -1,0 +1,11 @@
+{
+  "name": "mern-app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "server": "npm run start --prefix server",
+    "client": "npm start --prefix client"
+  },
+  "author": "Hamza Neffati",
+  "license": "ISC"
+}
