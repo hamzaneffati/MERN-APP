@@ -1,0 +1,8 @@
+.app {
+  display: grid;
+}
+
+.title {
+  text-align: center;
+  color: #141A56;
+}

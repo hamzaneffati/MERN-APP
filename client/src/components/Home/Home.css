@@ -1,0 +1,13 @@
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.logo {
+  width: 500px;
+}
+
+.loading {
+  width: 400px;
+}
