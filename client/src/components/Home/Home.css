@@ -11,3 +11,19 @@
 .loading {
   width: 400px;
 }
+
+@media (max-width: 900px) {
+  .container{
+    flex-direction: column;
+  }
+  .logo {
+    max-width: 500px;
+    max-height: 400px;
+  }
+  
+  .loading {
+    width: 400px;
+    max-height: 300px;
+  }
+  
+}
